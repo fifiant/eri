@@ -94,6 +94,13 @@ table {
 	height:32px;
 	display:block;
 }
+
+.social li.ohloh a{
+	background:url(https://www.ohloh.net/p/ofofo/widgets/project_thin_badge.gif) no-repeat;
+	width:32px;
+	height:32px;
+	display:block;
+}
 .social li.weibo a{
 	background:url(../images/icon_weibo.png) no-repeat;
 	width:32px;
